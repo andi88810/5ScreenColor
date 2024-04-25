@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftarNegara">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Philippines</item>
+        <item>Australia</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Lokasi">Location</string>
+    <string name="app_name">Multi Language</string>
+    <string name="jalan">Street</string>
+    <string name="kodePos">Zip Code</string>
+    <string name="nama">Name</string>
+    <string name="negara">Country</string>
+    <string name="pemakai">User</string>
+    <string name="sandi">Password</string>
+    <string name="simpan">save</string>
+    <string name="telp">Telephone</string>
+    <string name="tglLahir">Birth Date</string>
+    <string name="ulang">Reset</string>
+    <style name="Base.Theme.MultiLanguage" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MultiLanguage" parent="Base.Theme.MultiLanguage"/>
+</resources>

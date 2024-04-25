@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftarNegara">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Philippines</item>
+        <item>Australia</item>
+    </string-array>
+    <string name="Lokasi">Lokasi</string>
+    <string name="app_name">Multi Language</string>
+    <string name="jalan">Jalan</string>
+    <string name="kodePos">Kode Pos</string>
+    <string name="nama">Nama</string>
+    <string name="negara">Negara</string>
+    <string name="pemakai">Pemakai</string>
+    <string name="sandi">Sandi</string>
+    <string name="simpan">Simpan</string>
+    <string name="telp">Telepon</string>
+    <string name="tglLahir">Tgl Lahir</string>
+    <string name="ulang">Ulang</string>
+</resources>
